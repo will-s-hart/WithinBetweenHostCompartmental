@@ -1,6 +1,6 @@
-%% This code accompanies the manuscript entitled "A compartmental framework
+%% This code accompanies the manuscript entitled "A theoretical framework
 %% for transitioning from patient-level to population-scale epidemiological
-%% dynamics" by Hart et al. For further information about the paper or this
+%% dynamics: influenza A as a case study" by Hart et al. For further information about the paper or this
 %% code, please email william.hart@keble.ox.ac.uk
 
 %% We request that users cite the original publication when referring to
